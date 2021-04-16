@@ -40,7 +40,6 @@ main{
 
 .message{
     width: auto;
-    height: 70px;
     font-size: 35px;
     font-family: 'Amatic SC', cursive;
     font-weight: 600;
@@ -48,6 +47,8 @@ main{
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
+    text-align: center;
+    margin: 0px 20px;
 }
 .btn{
     height: 50px;
